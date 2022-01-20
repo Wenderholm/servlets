@@ -18,10 +18,7 @@ public class AllParamsController extends HttpServlet {
                 System.out.println(" -" + value);
             }
         }
-
     }
-
-
 }
 //zapytania
 //bez rozdzielonej nazwy
